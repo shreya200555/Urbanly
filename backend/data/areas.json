@@ -1,0 +1,228 @@
+{
+  "areas": {
+    "Whitefield": {
+      "foot_traffic": 85,
+      "competition": 70,
+      "spending_power": 82,
+      "population_density": 75,
+      "area_type": "IT Hub",
+      "demand_trend": "High"
+    },
+    "Electronic City": {
+      "foot_traffic": 82,
+      "competition": 65,
+      "spending_power": 78,
+      "population_density": 70,
+      "area_type": "IT Hub",
+      "demand_trend": "High"
+    },
+    "Bellandur": {
+      "foot_traffic": 80,
+      "competition": 72,
+      "spending_power": 80,
+      "population_density": 78,
+      "area_type": "IT Hub",
+      "demand_trend": "High"
+    },
+    "Marathahalli": {
+      "foot_traffic": 88,
+      "competition": 78,
+      "spending_power": 75,
+      "population_density": 90,
+      "area_type": "IT Hub",
+      "demand_trend": "High"
+    },
+    "Indiranagar": {
+      "foot_traffic": 92,
+      "competition": 88,
+      "spending_power": 95,
+      "population_density": 82,
+      "area_type": "Mixed",
+      "demand_trend": "High"
+    },
+    "Koramangala": {
+      "foot_traffic": 90,
+      "competition": 85,
+      "spending_power": 90,
+      "population_density": 88,
+      "area_type": "Mixed",
+      "demand_trend": "High"
+    },
+    "HSR Layout": {
+      "foot_traffic": 85,
+      "competition": 78,
+      "spending_power": 88,
+      "population_density": 86,
+      "area_type": "Mixed",
+      "demand_trend": "High"
+    },
+    "BTM Layout": {
+      "foot_traffic": 86,
+      "competition": 80,
+      "spending_power": 78,
+      "population_density": 92,
+      "area_type": "Mixed",
+      "demand_trend": "High"
+    },
+    "MG Road": {
+      "foot_traffic": 95,
+      "competition": 92,
+      "spending_power": 88,
+      "population_density": 72,
+      "area_type": "Commercial",
+      "demand_trend": "High"
+    },
+    "Brigade Road": {
+      "foot_traffic": 93,
+      "competition": 90,
+      "spending_power": 85,
+      "population_density": 70,
+      "area_type": "Commercial",
+      "demand_trend": "High"
+    },
+    "Commercial Street": {
+      "foot_traffic": 94,
+      "competition": 88,
+      "spending_power": 72,
+      "population_density": 75,
+      "area_type": "Commercial",
+      "demand_trend": "High"
+    },
+    "Jayanagar": {
+      "foot_traffic": 80,
+      "competition": 72,
+      "spending_power": 78,
+      "population_density": 90,
+      "area_type": "Residential",
+      "demand_trend": "Medium"
+    },
+    "JP Nagar": {
+      "foot_traffic": 78,
+      "competition": 70,
+      "spending_power": 76,
+      "population_density": 88,
+      "area_type": "Residential",
+      "demand_trend": "Medium"
+    },
+    "Basavanagudi": {
+      "foot_traffic": 75,
+      "competition": 62,
+      "spending_power": 72,
+      "population_density": 88,
+      "area_type": "Residential",
+      "demand_trend": "Medium"
+    },
+    "Malleshwaram": {
+      "foot_traffic": 76,
+      "competition": 65,
+      "spending_power": 74,
+      "population_density": 86,
+      "area_type": "Residential",
+      "demand_trend": "Medium"
+    },
+    "Rajajinagar": {
+      "foot_traffic": 74,
+      "competition": 62,
+      "spending_power": 72,
+      "population_density": 84,
+      "area_type": "Residential",
+      "demand_trend": "Medium"
+    },
+    "Banashankari": {
+      "foot_traffic": 78,
+      "competition": 68,
+      "spending_power": 70,
+      "population_density": 90,
+      "area_type": "Residential",
+      "demand_trend": "Medium"
+    },
+    "Bannerghatta Road": {
+      "foot_traffic": 76,
+      "competition": 65,
+      "spending_power": 74,
+      "population_density": 80,
+      "area_type": "Residential",
+      "demand_trend": "Medium"
+    },
+    "Yelahanka": {
+      "foot_traffic": 70,
+      "competition": 55,
+      "spending_power": 72,
+      "population_density": 76,
+      "area_type": "Mixed",
+      "demand_trend": "Medium"
+    },
+    "Hebbal": {
+      "foot_traffic": 76,
+      "competition": 68,
+      "spending_power": 78,
+      "population_density": 78,
+      "area_type": "Mixed",
+      "demand_trend": "Medium"
+    },
+    "KR Puram": {
+      "foot_traffic": 74,
+      "competition": 60,
+      "spending_power": 68,
+      "population_density": 84,
+      "area_type": "Residential",
+      "demand_trend": "Medium"
+    },
+    "Sarjapur Road": {
+      "foot_traffic": 82,
+      "competition": 72,
+      "spending_power": 80,
+      "population_density": 85,
+      "area_type": "Mixed",
+      "demand_trend": "High"
+    },
+    "Domlur": {
+      "foot_traffic": 84,
+      "competition": 76,
+      "spending_power": 82,
+      "population_density": 80,
+      "area_type": "Mixed",
+      "demand_trend": "High"
+    },
+    "Ulsoor": {
+      "foot_traffic": 78,
+      "competition": 70,
+      "spending_power": 76,
+      "population_density": 82,
+      "area_type": "Mixed",
+      "demand_trend": "Medium"
+    },
+    "RT Nagar": {
+      "foot_traffic": 72,
+      "competition": 62,
+      "spending_power": 70,
+      "population_density": 80,
+      "area_type": "Residential",
+      "demand_trend": "Medium"
+    },
+    "Kalyan Nagar": {
+      "foot_traffic": 76,
+      "competition": 68,
+      "spending_power": 74,
+      "population_density": 84,
+      "area_type": "Mixed",
+      "demand_trend": "Medium"
+    },
+    "Frazer Town": {
+      "foot_traffic": 80,
+      "competition": 74,
+      "spending_power": 78,
+      "population_density": 82,
+      "area_type": "Mixed",
+      "demand_trend": "Medium"
+    },
+    "Shivajinagar": {
+      "foot_traffic": 85,
+      "competition": 80,
+      "spending_power": 70,
+      "population_density": 88,
+      "area_type": "Commercial",
+      "demand_trend": "High"
+    }
+  }
+}

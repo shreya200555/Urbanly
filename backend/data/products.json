@@ -1,0 +1,193 @@
+{
+  "products": {
+    "bakery": {
+      "min_foot_traffic": 70,
+      "min_spending_power": 65,
+      "max_competition": 75,
+      "preferred_area_types": ["Residential", "Mixed", "Commercial"],
+      "demand_preference": "High"
+    },
+    "cafe": {
+      "min_foot_traffic": 75,
+      "min_spending_power": 75,
+      "max_competition": 85,
+      "preferred_area_types": ["Commercial", "IT Hub", "Mixed"],
+      "demand_preference": "High"
+    },
+    "coffee_shop": {
+      "min_foot_traffic": 72,
+      "min_spending_power": 72,
+      "max_competition": 80,
+      "preferred_area_types": ["IT Hub", "Commercial", "Mixed"],
+      "demand_preference": "High"
+    },
+    "restaurant": {
+      "min_foot_traffic": 80,
+      "min_spending_power": 70,
+      "max_competition": 85,
+      "preferred_area_types": ["Commercial", "Mixed", "IT Hub"],
+      "demand_preference": "High"
+    },
+    "quick_service_restaurant": {
+      "min_foot_traffic": 78,
+      "min_spending_power": 65,
+      "max_competition": 82,
+      "preferred_area_types": ["IT Hub", "Commercial", "Mixed"],
+      "demand_preference": "High"
+    },
+    "gym": {
+      "min_foot_traffic": 65,
+      "min_spending_power": 78,
+      "max_competition": 70,
+      "preferred_area_types": ["Residential", "IT Hub", "Mixed"],
+      "demand_preference": "High"
+    },
+    "fitness_studio": {
+      "min_foot_traffic": 62,
+      "min_spending_power": 80,
+      "max_competition": 68,
+      "preferred_area_types": ["IT Hub", "Mixed", "Residential"],
+      "demand_preference": "High"
+    },
+    "salon": {
+      "min_foot_traffic": 60,
+      "min_spending_power": 65,
+      "max_competition": 80,
+      "preferred_area_types": ["Residential", "Mixed", "Commercial"],
+      "demand_preference": "Medium"
+    },
+    "spa": {
+      "min_foot_traffic": 55,
+      "min_spending_power": 80,
+      "max_competition": 75,
+      "preferred_area_types": ["IT Hub", "Mixed", "Residential"],
+      "demand_preference": "Medium"
+    },
+    "clothing_store": {
+      "min_foot_traffic": 70,
+      "min_spending_power": 68,
+      "max_competition": 80,
+      "preferred_area_types": ["Commercial", "Mixed", "Residential"],
+      "demand_preference": "Medium"
+    },
+    "boutique": {
+      "min_foot_traffic": 65,
+      "min_spending_power": 85,
+      "max_competition": 75,
+      "preferred_area_types": ["Mixed", "Commercial", "IT Hub"],
+      "demand_preference": "Medium"
+    },
+    "pharmacy": {
+      "min_foot_traffic": 55,
+      "min_spending_power": 55,
+      "max_competition": 70,
+      "preferred_area_types": ["Residential", "Mixed"],
+      "demand_preference": "Medium"
+    },
+    "grocery_store": {
+      "min_foot_traffic": 75,
+      "min_spending_power": 60,
+      "max_competition": 78,
+      "preferred_area_types": ["Residential", "Mixed"],
+      "demand_preference": "High"
+    },
+    "supermarket": {
+      "min_foot_traffic": 78,
+      "min_spending_power": 65,
+      "max_competition": 72,
+      "preferred_area_types": ["Residential", "Mixed", "Commercial"],
+      "demand_preference": "High"
+    },
+    "electronics_store": {
+      "min_foot_traffic": 72,
+      "min_spending_power": 75,
+      "max_competition": 78,
+      "preferred_area_types": ["Commercial", "Mixed", "IT Hub"],
+      "demand_preference": "Medium"
+    },
+    "mobile_store": {
+      "min_foot_traffic": 70,
+      "min_spending_power": 70,
+      "max_competition": 80,
+      "preferred_area_types": ["Commercial", "Mixed", "IT Hub"],
+      "demand_preference": "High"
+    },
+    "bookstore": {
+      "min_foot_traffic": 60,
+      "min_spending_power": 70,
+      "max_competition": 75,
+      "preferred_area_types": ["Residential", "Mixed", "Commercial"],
+      "demand_preference": "Low"
+    },
+    "stationery_store": {
+      "min_foot_traffic": 65,
+      "min_spending_power": 60,
+      "max_competition": 78,
+      "preferred_area_types": ["Residential", "Mixed", "IT Hub"],
+      "demand_preference": "Medium"
+    },
+    "gift_shop": {
+      "min_foot_traffic": 68,
+      "min_spending_power": 72,
+      "max_competition": 82,
+      "preferred_area_types": ["Commercial", "Mixed", "Residential"],
+      "demand_preference": "Medium"
+    },
+    "pet_store": {
+      "min_foot_traffic": 55,
+      "min_spending_power": 75,
+      "max_competition": 70,
+      "preferred_area_types": ["Residential", "Mixed"],
+      "demand_preference": "Medium"
+    },
+    "co_working_space": {
+      "min_foot_traffic": 70,
+      "min_spending_power": 82,
+      "max_competition": 65,
+      "preferred_area_types": ["IT Hub", "Commercial", "Mixed"],
+      "demand_preference": "High"
+    },
+    "shared_office": {
+      "min_foot_traffic": 68,
+      "min_spending_power": 80,
+      "max_competition": 68,
+      "preferred_area_types": ["IT Hub", "Mixed", "Commercial"],
+      "demand_preference": "High"
+    },
+    "daycare": {
+      "min_foot_traffic": 60,
+      "min_spending_power": 75,
+      "max_competition": 72,
+      "preferred_area_types": ["Residential", "IT Hub", "Mixed"],
+      "demand_preference": "High"
+    },
+    "tutoring_center": {
+      "min_foot_traffic": 62,
+      "min_spending_power": 72,
+      "max_competition": 75,
+      "preferred_area_types": ["Residential", "Mixed"],
+      "demand_preference": "Medium"
+    },
+    "laundry": {
+      "min_foot_traffic": 65,
+      "min_spending_power": 55,
+      "max_competition": 72,
+      "preferred_area_types": ["Residential", "Mixed", "IT Hub"],
+      "demand_preference": "Medium"
+    },
+    "cleaning_services": {
+      "min_foot_traffic": 50,
+      "min_spending_power": 70,
+      "max_competition": 68,
+      "preferred_area_types": ["IT Hub", "Residential", "Mixed"],
+      "demand_preference": "High"
+    },
+    "repair_services": {
+      "min_foot_traffic": 60,
+      "min_spending_power": 60,
+      "max_competition": 75,
+      "preferred_area_types": ["Residential", "Mixed", "Commercial"],
+      "demand_preference": "Medium"
+    }
+  }
+}
