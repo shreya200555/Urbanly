@@ -438,7 +438,7 @@ export function DemoFlow({ demoState, setDemoState, onClose }: DemoFlowProps) {
                   <p className="text-gray-400">No recommendations available. Please try again.</p>
                 </div>
               ) : (
-                recommendations.map((rec, index) => (
+                recommendations.map((rec: any, index: number) => (
                   <div
                     key={index}
                     className="liquid-glass border border-white/10 rounded-xl p-6 hover:border-white/30 transition-all duration-300"

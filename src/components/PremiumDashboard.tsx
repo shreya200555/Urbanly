@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Users, TrendingUp, Clock, MapPin, DollarSign, Target, Building2, CheckCircle2, AlertTriangle, Lightbulb, BarChart3 } from 'lucide-react';
+import { Users, TrendingUp, Clock, MapPin, DollarSign, Target, Building2, CheckCircle2, AlertTriangle, Lightbulb } from 'lucide-react';
 import type { Recommendation, PremiumInsights } from '../services/api';
 
 interface Metric {
